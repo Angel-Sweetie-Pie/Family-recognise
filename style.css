@@ -1,0 +1,25 @@
+body {
+    background:lightseagreen;
+color:black
+}
+.heading{
+    width:80%;
+    font-size:30px;
+    color:rgb(8, 63, 63);
+    font-weight:bold;
+}
+
+.name_of_objects{
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+hr{
+    height:4px;
+}
+#camera{
+    width:350px;
+    height:300px;
+    border:2px dashed black;
+}
